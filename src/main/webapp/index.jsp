@@ -1,12 +1,15 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <body>
-<h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
+<h1><font color='Blue'> Sreeeni Test <font></h1>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
+<a href="https://www.google.com"> Launch Google home page</a>
   
-  <h2> Call Us : + 91 - 99 85 39 66 77 / 99 85 29 66 77</h2>
+  <h2> Call Us : + 91 - 9963324243 /6305235905</h2>
   
-  <h3> Ofc Location : Ameerpet, Hyderbad </h3>
+  <h3> Ofc Location : Miyapur, Hyderbad </h3>
   
   <h1> Learn Here.. Lead Anywhere..!! </h1>
 
