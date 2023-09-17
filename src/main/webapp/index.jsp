@@ -7,9 +7,9 @@
 
 <a href="https://www.google.com"> Launch Google home page</a>
   
-  <h2> Call Us : + 91 - 9963324243 /6305235905</h2>
+  <h2> Call Us : + 91 - 9963324241 /63052359888</h2>
   
-  <h3> Ofc Location : Miyapur, Hyderbad </h3>
+  <h3> Ofc Location : Miyapur, Hyderbad,Telangana </h3>
   
   <h1> Learn Here.. Lead Anywhere..!! </h1>
 
