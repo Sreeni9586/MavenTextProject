@@ -9,7 +9,7 @@
   
   <h2> Call Us : + 91 - 9963324241 /63052359888</h2>
   
-  <h3> Ofc Location : Miiiiyapur, Hyderbad,Telangana </h3>
+  <h3> Ofc Location : Miyapur, Hyderbad,Telangana </h3>
   
   <h1> Learn Here.. Lead Anywhere..!! </h1>
 
