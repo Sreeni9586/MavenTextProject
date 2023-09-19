@@ -11,7 +11,6 @@
   
   <h3> Ofc Location : Miyapur, Hyderbad,Telangana </h3>
   <h4> Ofc Location : 500049</h3>
-  <h1> Learn Here.. Lead Anywhere.. Learn Everywhere!! </h1>
 
 </body>
 </html>
